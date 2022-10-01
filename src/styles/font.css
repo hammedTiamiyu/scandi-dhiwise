@@ -1,0 +1,15 @@
+
+ @font-face { font-style : normal; src: url("assets/fonts/RalewayRegular.ttf"); font-family : "Raleway"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RalewayMedium.ttf"); font-family : "Raleway"; font-weight : 500;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RalewaySemiBold.ttf"); font-family : "Raleway"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RalewayLight.ttf"); font-family : "Raleway"; font-weight : 300;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RobotoBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/RalewayRomanRegular.ttf"); font-family : "Raleway"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RalewayBold.ttf"); font-family : "Raleway"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/SourceSansProRegular.ttf"); font-family : "Source Sans Pro"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RobotoMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RobotoCondensedBold.ttf"); font-family : "Roboto Condensed"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/RobotoRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/RobotoRomanRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RalewayRomanBold.ttf"); font-family : "Raleway"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RalewayRomanMedium.ttf"); font-family : "Raleway"; font-weight : 500;  }
